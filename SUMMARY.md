@@ -1,33 +1,21 @@
 # Table of contents
 
-## 🗺️ Accueil
+* [Template](README.md)
 
-* [📜 ›  Récapitulatif](README.md)
-* [🖼️ ›  Commission](accueil/commission/README.md)
-  * [✍️ ▪  Rédaction](accueil/commission/redaction.md)
-  * [🎨 ▪  Game-Design | OFF](accueil/commission/game-design-or-off.md)
+## 🔪 CollectifUHC Rédaction
 
-## 👿 La Traque Mortelle <a href="#https-traque-mortelle.gitbook.io-la-traque-mortelle" id="https-traque-mortelle.gitbook.io-la-traque-mortelle"></a>
+* [📃 • Présentation](collectifuhc-redaction/presentation.md)
 
-* [📘 ›  Présentation](https-traque-mortelle.gitbook.io-la-traque-mortelle/presentation/README.md)
-  * [👿 ▪  Traque Mortelle](https://kenkyomc.gitbook.io/kenkyo)
+## 👥 Rôles
 
-## ⚔️ Blue Exorcist UHC <a href="#https-traque-mortelle.gitbook.io-la-traque-mortelle" id="https-traque-mortelle.gitbook.io-la-traque-mortelle"></a>
+* [⚔️ • Rôles à corriger](roles/roles-a-corriger/README.md)
+  * [👒 Shanks](roles/roles-a-corriger/shanks.md)
+* [• Rôles à corriger](roles/roles-a-corriger-1/README.md)
+  * [🦊 Naruto](roles/roles-a-corriger-1/naruto.md)
+* [• Rôles à corriger](roles/roles-a-corriger-2/README.md)
+  * [Page](roles/roles-a-corriger-2/page.md)
 
-* [📘 Présentation](https-traque-mortelle.gitbook.io-la-traque-mortelle-1/presentation/README.md)
-  * [⚔️ ▪  Blue Exorcist UHC](https://ego-uhc.gitbook.io/blue-exorcist-uhc)
+## 📜 Particularités
 
-## 🥶 Sonic UHC
-
-* [📘 ›  Présentation](sonic-uhc/presentation/README.md)
-  * [🥶 ▪  Sonic UHC](https://ego-uhc.gitbook.io/sonic-uhc)
-
-## 🧚‍♂️ Owari No Seraph UHC
-
-* [📗 ›  Présentation](owari-no-seraph-uhc/presentation/README.md)
-  * [🧚‍♂️ ▪  Owari No Seraph UHC](https://seraph-of-the-end.gitbook.io/owari-no-seraph-uhc/)
-
-## 👹 KENGAN ASHURA UHC
-
-* [📕 ›  Présentation](kengan-ashura-uhc/presentation/README.md)
-  * [👹 ▪  Kengan Ashura UHC](https://kengan-uhc.gitbook.io)
+* [• Particularité 1](particularites/particularite-1.md)
+* [•Particularité](particularites/particularite.md)
